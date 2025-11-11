@@ -1,0 +1,8 @@
+footer{
+    position: relative;
+    width: 95%;
+    height: 50px;
+    background-color: gainsboro;
+    margin: 2%;
+    display: inline-flex;
+}
