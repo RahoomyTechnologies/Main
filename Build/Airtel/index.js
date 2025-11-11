@@ -1,5 +1,9 @@
 DISPLAY("",`
 
-    <header>AIRTEL</header>
+    <header>
+
+        <p class="AirtelName">Airtel</p>
     
-`)
+    </header>
+    
+`);
