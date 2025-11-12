@@ -5,7 +5,7 @@ DISPLAY("",`
     
         <p class="mainholder" >Airtel Uganda</p>
         
-      <img class="images" src="./Build/Airtel/airtel.png">
+      <img class="images" src="https://rahoomytechnologies.github.io/Main/Build/Airtel/airtel.png">
 
         <h1 class="discription">About us!</h1>
 
