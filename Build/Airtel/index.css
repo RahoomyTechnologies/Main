@@ -1,43 +1,61 @@
 body{
-    background: green;
+    background: rgb(145, 248, 145);
 }
 
-header{
-    background: rgb(99, 142, 192);
-}
-
-.images{
-    width: 40px;
-    height: 40px;
-    margin: auto;
-    margin-left: 1%;
-    border-radius: 15px;
-    padding: 5px;
-}
-
-.mainholdersdiv{
+.mainholder{
     position: relative;
-    background-color: rgba(131, 66, 111, 0.5);
-    width: auto;
-    height: 150px;
+    background-color: transparent;
+    width: 100%;
+    height: 100px;
     margin: auto;
+    margin-left: 2%;
     color: red;
 
 }
 
-
-.h1{
+.images{
     position: relative;
+    width: 350%;
+    height: 150px;
+    background-color: gainsboro;
+    margin: 10%;
+    display: block;
+    
+}
+
+.discription{
+    position: relative;
+    background-color:transparent;
+    color: red;
     margin: auto;
-    margin-left: 5%;
+    margin-left: 2%;
+    text-align: center;
+    height: 950%;
+    width: 50%;
+}
+
+
+.holders{
+    position: relative;
+    background-color: transparent;
+    color:black;
+    font-family: sans-serif;
+    margin: 35%;
+    margin-left: 1%;
+    margin-bottom: 2%;
+    width:100%;
+    box-sizing: 100%;
+
+    
 }
 
 .main{
     position: relative;
-    background-color: rgba(33, 9, 119, 0.5);
-    width: auto;
-    height: 350px;
+    background-color:transparent;
+    width: 100%;
+    height: 100%;
     margin: auto;
+    margin-left: 2%;
 }
 
 .holder{
@@ -51,10 +69,14 @@ header{
     border-radius: 25px;
 }
 .box{
+    position: relative;
+    color: black;
+    margin: auto;
     width: 100%;
     height: 100%;
     border-radius: 50px;
     outline: none;
     background: transparent;
     text-align: center;
+
 }

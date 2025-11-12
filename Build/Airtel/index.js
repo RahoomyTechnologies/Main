@@ -4,8 +4,8 @@ DISPLAY("",`
 
     
         <p class="mainholder" >Airtel Uganda</p>
-    
-         <img class="images" src="airtel.png">
+        
+      <img class="images" src="./Build/Airtel/airtel.png">
 
         <h1 class="discription">About us!</h1>
 
@@ -15,18 +15,10 @@ DISPLAY("",`
 
     </header>
 
-    <div class=" mainholdersdiv">
-        
-        <div  class="holders"></div>
-
-        <div class="holders"></div>
-
-    </div>
-
       <form  >
     <div class=" main">
 
-        <h1> See what RAHOOMY sent</h1>
+        <h1 class="holders"> See what RAHOOMY sent</h1>
 
          <div  class="holder">
 
